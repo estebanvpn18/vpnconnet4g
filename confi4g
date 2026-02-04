@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "NUEVA ACTUALIZACION ENCONTRADA CREADA POR ESTEBAN",
   "UrlUpdate": "",
   "Sms": "sms aqui",
@@ -23,7 +23,7 @@
   ],
   "Networks": [
 {
-"Name": " 🟣 VIVA MIAMI PRÉ 01",
+"Name": " 🇩🇴 VIVA MIAMI 01🇩🇴",
 "FLAG": "vivo",
 "Payload": "GET https://internetmovil.viva.com.do/ HTTP/1.1[crlf]Host: internetmovil.viva.com.do[crlf]X-Online-Host: internetmovil.viva.com.do[crlf]Connection:Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]CONNECTinternetmovil.viva.com.do@[host_port][protocol][crlf][crlf]",
 "SNI": "",
@@ -33,12 +33,12 @@
 "Info": "Proxy"
 },
 {
-"Name": " 🟣 VIVO SECURITY PRÉ 02",
+"Name": " 🇩🇴 MIAMI CLARO 02🇩🇴",
 "FLAG": "vivo",
-"Payload": "[delay_split][crlf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]Upgrade: websocket[lf]",
+"Payload": "GET / HTTP/1.1[lf]Host: miami.germosen.xyz[lf]Upgrade: websocket[lf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "149.78.185.130",
+"ProxyIP": "video-cf.twimg.com",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -103,7 +103,7 @@
 "Info": "Proxy"
 },
 {
-"Name": " 🟣 VIVO  CLOUDFLARE PRÓ [02]",
+"Name": " 🟣 VIVO  CLOUDFLARE PRÓ [02]",
 "FLAG": "vivo",
 "Payload": "ACL / HTTP/1.1[crlf]Host: terror.worldofdragon.net[split][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
@@ -113,7 +113,7 @@
 "Info": "Proxy"
 },
 {
-"Name": " 🟣 VIVO  CLOUDFLARE PRÓ [03]",
+"Name": " 🟣 VIVO  CLOUDFLARE PRÓ [03]",
 "FLAG": "vivo",
 "Payload": "ACL / HTTP/1.1[crlf]Host: terror.worldofdragon.net[split][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
@@ -493,7 +493,7 @@
 "Info": "Proxy"
 },
 { 
-"Name": "🟣 VIVO EASY NEW  7",
+"Name": "🟣 VIVO EASY NEW  7",
 "FLAG": "vivo",
 "Payload": "GET / HTTP/1.1[crlf]Host: terror.worldofdragon.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
 "SNI": "",
