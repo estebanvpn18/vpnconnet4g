@@ -34,7 +34,7 @@
 },
 {
 "Name": " 🇩🇴 MIAMI CLARO 02🇩🇴",
-"FLAG": "vivo",
+"FLAG": "claro",
 "Payload": "GET / HTTP/1.1[crlf]Host: angeldesign.uk[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
