@@ -1,6 +1,6 @@
 {
   "Version": "1.0.2",
-  "ReleaseNotes": "NUEVA ACTUALIZACION ENCONTRADA CREADA POR ESTEBAN",
+  "ReleaseNotes": "🇩🇴NUEVA ACTUALIZACION ENCONTRADA CREADA POR ESTEBAN🇩🇴",
   "UrlUpdate": "",
   "Sms": "sms aqui",
   "EmailFeedback": "seu email aqui",
@@ -35,7 +35,7 @@
 {
 "Name": " 🇩🇴 MIAMI CLARO 02🇩🇴",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[lf]Host: miami.germosen.xyz[lf]Upgrade: websocket[lf]",
+"Payload": "GET / HTTP/1.1[crlf]Host: angeldesign.uk[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "video-cf.twimg.com",
