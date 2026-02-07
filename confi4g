@@ -1,5 +1,5 @@
 {
-  "Version": "1.1",
+  "Version": "1.2",
   "ReleaseNotes": "🇩🇴NUEVA ACTUALIZACION ENCONTRADA CREADA POR ESTEBAN🇩🇴",
   "UrlUpdate": "",
   "Sms": "sms aqui",
@@ -33,7 +33,7 @@
 "Info": "Proxy"
 },
 {
-"Name": " 🇩🇴 MIAMI CLARO 02🇩🇴",
+"Name": " 🇩🇴 CLARO MIAMI-redes 02🇩🇴",
 "FLAG": "claro",
 "Payload": "GET / HTTP/1.1[crlf]Host: angeldesign.uk[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
@@ -43,7 +43,7 @@
 "Info": "Proxy"
 },
 {
-"Name": " 🇩🇴CLARO-FLOTA🇩🇴 03",
+"Name": " 🇩🇴CLARO-FLOTA 03🇩🇴",
 "FLAG": "claro",
 "Payload": "GET / [protocol]\r
 Host: https://prepagoenlinea2.claro.com.do/autogestionprepago/LimitPortal\r
