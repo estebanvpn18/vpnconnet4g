@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.1",
   "ReleaseNotes": "🇩🇴NUEVA ACTUALIZACION ENCONTRADA CREADA POR ESTEBAN🇩🇴",
   "UrlUpdate": "",
   "Sms": "sms aqui",
-  "EmailFeedback": "seu email aqui",
-  "UrlContato": " Contato ",
+  "EmailFeedback": "angelesteban1988@hotmail.com",
+  "UrlContato": "wa.me/18094135249",
   "UrlTermos": " Mensagem ",
   "CheckUser": "http://2804:5364:7000:1:1:1:51ba:7bad:8888/checkUser",
   "UdpPort":"7100;7200;7300;7400;7500",
@@ -43,12 +43,16 @@
 "Info": "Proxy"
 },
 {
-"Name": " 🟣 VIVO SECURITY PRÉ 03",
-"FLAG": "vivo",
-"Payload": "[delay_split][crlf]GET / HTTP/1.1[lf]Host: 149.78.185.130[lf]Upgrade: websocket[lf]",
+"Name": " 🇩🇴CLARO-FLOTA🇩🇴 03",
+"FLAG": "claro",
+"Payload": "GET / [protocol]\r
+Host: https://prepagoenlinea2.claro.com.do/autogestionprepago/LimitPortal\r
+Upgrade: websocket\r
+Connection: keep-alive\r
+Proxy-Connection: keep-alive\r",
 "SNI": "",
-"TlsIP": "149.78.185.130",
-"ProxyIP": "149.78.185.130",
+"TlsIP": "",
+"ProxyIP": "viva.com.do.minapro.freeddns.org",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
